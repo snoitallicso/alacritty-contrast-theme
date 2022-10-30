@@ -1,0 +1,36 @@
+# Colors (High Contrast)
+colors:
+   # Default colors
+  primary:
+     background: '#000000'
+     foreground: '#ffff00'
+
+  cursor:
+    text: '#ffffff'
+    cursor: '#ffff00'
+
+  selection:
+    text: '#080808'
+    background: '#ffffff'
+
+   # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#FF0000'
+    green:   '#00FF00'
+    yellow:  '#FFFF00'
+    blue:    '#0000FF'
+    magenta: '#FF00FF'
+    cyan:    '#00FFFF'
+    white:   '#ffffff'
+
+   # Bright colors
+  bright:
+    black:   '#000000'
+    red:     '#FF0000'
+    green:   '#00FF00'
+    yellow:  '#FFFF00'
+    blue:    '#0000FF'
+    magenta: '#FF00FF'
+    cyan:    '#00FFFF'
+    white:   '#ffffff'
